@@ -1,0 +1,14 @@
+12/5/17 2:25 PM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	    6929	28461	                     172568	                       188191	     1	
+Remaining:       	    6929	28461	                     172568	                       188191	     1	
+Unique:          	    6281	26859	                     166022	                       181252	     1	
+Unique Remaining:	    6281	26859	                     166022	                       181252	     1	
+
+
+Individual File Statistics:
+
+File Name                            	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+joined-P444-J1.1-1.2-1.3-en-fi-T.docx	          6929	              6929	           6281	                     6281	      28461	          28461	       26859	                 26859	                           172568	                               172568	                            166022	                                      166022	                             188191	                                 188191	                              181252	                                        181252	
