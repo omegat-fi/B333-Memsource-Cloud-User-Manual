@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T110658Z" creationid="Maria" creationdate="20171208T110658Z">
+        <seg>Sisältö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From Memsource</seg>
       </tuv>
       <tuv lang="FI" changeid="Maria" changedate="20171208T110422Z" creationid="Maria" creationdate="20171208T110422Z">
@@ -66,6 +74,30 @@
       </tuv>
       <tuv lang="FI" changeid="Maria" changedate="20171208T103916Z" creationid="Maria" creationdate="20171208T103916Z">
         <seg>Kohde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1&gt;&lt;t0/&gt;{2&gt;&lt;t1/&gt;1&lt;t2/&gt;&lt;2}&lt;t3/&gt; &lt;t4/&gt;{3&gt;&lt;t5/&gt;Introduction&lt;t6/&gt;&lt;3}&lt;t7/&gt;&lt;1}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T110745Z" creationid="Maria" creationdate="20171208T110745Z">
+        <seg>{1&gt;&lt;t0/&gt;{2&gt;&lt;t1/&gt;1&lt;t2/&gt;&lt;2}&lt;t3/&gt; &lt;t4/&gt;{3&gt;&lt;t5/&gt;Johdanto&lt;t6/&gt;&lt;3}&lt;t7/&gt;&lt;1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1&gt;&lt;t0/&gt;{2&gt;&lt;t1/&gt;2&lt;t2/&gt;&lt;2}&lt;t3/&gt; &lt;t4/&gt;{3&gt;&lt;t5/&gt;User Management&lt;t6/&gt;&lt;3}&lt;t7/&gt;&lt;1}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T110805Z" creationid="Maria" creationdate="20171208T110805Z">
+        <seg>{1&gt;&lt;t0/&gt;{2&gt;&lt;t1/&gt;2&lt;t2/&gt;&lt;2}&lt;t3/&gt; &lt;t4/&gt;{3&gt;&lt;t5/&gt;Käyttäjien hallinta&lt;t6/&gt;&lt;3}&lt;t7/&gt;&lt;1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1&gt;&lt;t0/&gt; [&lt;t1/&gt;{2&gt;&lt;t2/&gt;hide&lt;t3/&gt;&lt;2}&lt;t4/&gt;] &lt;t5/&gt;&lt;1}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T110724Z" creationid="Maria" creationdate="20171208T110724Z">
+        <seg>{1&gt;&lt;t0/&gt; [&lt;t1/&gt;{2&gt;&lt;t2/&gt;piilota&lt;t3/&gt;&lt;2}&lt;t4/&gt;] &lt;t5/&gt;&lt;1}</seg>
       </tuv>
     </tu>
     <tu>
