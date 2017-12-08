@@ -78,10 +78,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This means that if an organization subscribes to 5 project manager accounts, they can create 5 administrator users or 5 project manager users or any combination of the two types.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T111144Z" creationid="Maria" creationdate="20171208T111144Z">
+        <seg>Tämä tarkoittaa sitä, että jos organisaatio ostaa viisi projektipäällikön lisenssiä, se voi luoda 5 järjestelmänvalvojaa tai 5 projektipäällikköä tai yhdistelmän näistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{1&gt;&lt;t0/&gt;{2&gt;&lt;t1/&gt;1&lt;t2/&gt;&lt;2}&lt;t3/&gt; &lt;t4/&gt;{3&gt;&lt;t5/&gt;Introduction&lt;t6/&gt;&lt;3}&lt;t7/&gt;&lt;1}</seg>
       </tuv>
       <tuv lang="FI" changeid="Maria" changedate="20171208T110745Z" creationid="Maria" creationdate="20171208T110745Z">
         <seg>{1&gt;&lt;t0/&gt;{2&gt;&lt;t1/&gt;1&lt;t2/&gt;&lt;2}&lt;t3/&gt; &lt;t4/&gt;{3&gt;&lt;t5/&gt;Johdanto&lt;t6/&gt;&lt;3}&lt;t7/&gt;&lt;1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1&gt;&lt;t0/&gt;{2&gt;&lt;t1/&gt;2.1&lt;t2/&gt;&lt;2}&lt;t3/&gt; &lt;t4/&gt;{3&gt;&lt;t5/&gt;User Licensing&lt;t6/&gt;&lt;3}&lt;t7/&gt;&lt;1}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T110823Z" creationid="Maria" creationdate="20171208T110823Z">
+        <seg>{1&gt;&lt;t0/&gt;{2&gt;&lt;t1/&gt;2.1&lt;t2/&gt;&lt;2}&lt;t3/&gt; &lt;t4/&gt;{3&gt;&lt;t5/&gt;Lisenssit&lt;t6/&gt;&lt;3}&lt;t7/&gt;&lt;1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1&gt;&lt;t0/&gt;{2&gt;&lt;t1/&gt;2.2&lt;t2/&gt;&lt;2}&lt;t3/&gt; &lt;t4/&gt;{3&gt;&lt;t5/&gt;Usernames&lt;t6/&gt;&lt;3}&lt;t7/&gt;&lt;1}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T110844Z" creationid="Maria" creationdate="20171208T110844Z">
+        <seg>{1&gt;&lt;t0/&gt;{2&gt;&lt;t1/&gt;2.2&lt;t2/&gt;&lt;2}&lt;t3/&gt; &lt;t4/&gt;{3&gt;&lt;t5/&gt;Käyttäjänimet&lt;t6/&gt;&lt;3}&lt;t7/&gt;&lt;1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1&gt;&lt;t0/&gt;{2&gt;&lt;t1/&gt;2.3&lt;t2/&gt;&lt;2}&lt;t3/&gt; &lt;t4/&gt;{3&gt;&lt;t5/&gt;My Profile Setup Menu&lt;t6/&gt;&lt;3}&lt;t7/&gt;&lt;1}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T110909Z" creationid="Maria" creationdate="20171208T110909Z">
+        <seg>{1&gt;&lt;t0/&gt;{2&gt;&lt;t1/&gt;2.3&lt;t2/&gt;&lt;2}&lt;t3/&gt; &lt;t4/&gt;{3&gt;&lt;t5/&gt;Profiilin asetukset&lt;t6/&gt;&lt;3}&lt;t7/&gt;&lt;1}</seg>
       </tuv>
     </tu>
     <tu>
