@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clients, domains, subdomains</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T112135Z" creationid="Maria" creationdate="20171208T112135Z">
+        <seg>Asiakkaat, aihealueet, ala-aiheet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Comment</seg>
       </tuv>
       <tuv lang="FI" changeid="Maria" changedate="20171208T103923Z" creationid="Maria" creationdate="20171208T103923Z">
@@ -90,6 +98,22 @@
       </tuv>
       <tuv lang="FI" changeid="Maria" changedate="20171208T111313Z" creationid="Maria" creationdate="20171208T111313Z">
         <seg>Poista muiden käyttäjien luomia projekteja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete users created by other users</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T112107Z" creationid="Maria" creationdate="20171208T112107Z">
+        <seg>Poista muiden käyttäjien luomia käyttäjiä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete vendors created by other users</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T112232Z" creationid="Maria" creationdate="20171208T112232Z">
+        <seg>Poista muiden käyttäjien luomia toimittajia</seg>
       </tuv>
     </tu>
     <tu>
@@ -198,6 +222,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modify users created by other users</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T112057Z" creationid="Maria" creationdate="20171208T112057Z">
+        <seg>Muokkaa muiden käyttäjien luomia käyttäjiä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modify vendors created by other users</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T112220Z" creationid="Maria" creationdate="20171208T112220Z">
+        <seg>Muokkaa muiden käyttäjien luomia toimittajia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Source</seg>
       </tuv>
       <tuv lang="FI" changeid="Maria" changedate="20171208T103901Z" creationid="Maria" creationdate="20171208T103901Z">
@@ -230,10 +270,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vendors</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T112152Z" creationid="Maria" creationdate="20171208T112152Z">
+        <seg>Toimittajat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>View TBs created by other users</seg>
       </tuv>
       <tuv lang="FI" changeid="Maria" changedate="20171208T111730Z" creationid="Maria" creationdate="20171208T111730Z">
         <seg>Tarkastele muiden käyttäjien luomia termikantoja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View all data</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T112248Z" creationid="Maria" creationdate="20171208T112248Z">
+        <seg>Näytä kaikkia tiedot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View data owned by the user</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T112310Z" creationid="Maria" creationdate="20171208T112310Z">
+        <seg>Näytä kaikki käyttäjän omistama data</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View users created by other users</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T112045Z" creationid="Maria" creationdate="20171208T112032Z">
+        <seg>Tarkastele muiden käyttäjien luomia käyttäjiä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>View vendors created by other users</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T112209Z" creationid="Maria" creationdate="20171208T112209Z">
+        <seg>Tarkastele muiden käyttäjien luomia toimittajia</seg>
       </tuv>
     </tu>
     <tu>
