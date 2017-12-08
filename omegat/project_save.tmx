@@ -14,10 +14,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From Memsource</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T110422Z" creationid="Maria" creationdate="20171208T110422Z">
+        <seg>Tietoja Memsourcesta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Jump to: &lt;t0/&gt;{1&gt;&lt;t1/&gt;navigation&lt;t2/&gt;&lt;1}&lt;t3/&gt;, &lt;t4/&gt;{2&gt;&lt;t5/&gt;search&lt;t6/&gt;&lt;2}</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T110616Z" creationid="Maria" creationdate="20171208T110616Z">
+        <seg>Siirry: &lt;t0/&gt;{1&gt;&lt;t1/&gt;valikko&lt;t2/&gt;&lt;1}&lt;t3/&gt;,&lt;t4/&gt;{2&gt;&lt;t5/&gt;haku&lt;t6/&gt;&lt;2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Memsource (en)</seg>
       </tuv>
       <tuv lang="FI" changeid="Maria" changedate="20171208T105714Z" creationid="Maria" creationdate="20171208T105714Z">
         <seg>Memsource (fi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Memsource Cloud User Manual</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T110221Z" creationid="Maria" creationdate="20171208T110221Z">
+        <seg>{2&gt;&lt;t0/&gt;Memsource Cloudin käyttöohje&lt;t1/&gt;&lt;2}&lt;t2/&gt;&lt;t3/&gt;{3}&lt;t4/&gt;{4&gt;&lt;t5/&gt;&lt;4}</seg>
       </tuv>
     </tu>
     <tu>
