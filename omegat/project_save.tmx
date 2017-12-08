@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>Access TBs of a selected client only</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T111954Z" creationid="Maria" creationdate="20171208T111954Z">
+        <seg>Käytä vain valitun asiakkaan termikantoja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Access TMs of a selected client only</seg>
       </tuv>
       <tuv lang="FI" changeid="Maria" changedate="20171208T111622Z" creationid="Maria" creationdate="20171208T111622Z">
@@ -38,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Approve terms in TBs created by other users</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T111941Z" creationid="Maria" creationdate="20171208T111941Z">
+        <seg>hyväksy muiden käyttäjien luomia termejä termikannassa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Comment</seg>
       </tuv>
       <tuv lang="FI" changeid="Maria" changedate="20171208T103923Z" creationid="Maria" creationdate="20171208T103923Z">
@@ -50,6 +66,14 @@
       </tuv>
       <tuv lang="FI" changeid="Maria" changedate="20171208T110658Z" creationid="Maria" creationdate="20171208T110658Z">
         <seg>Sisältö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete TBs created by other users</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T111756Z" creationid="Maria" creationdate="20171208T111756Z">
+        <seg>Poista muiden käyttäjien luomia termikantoja</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Export TBs created by other users</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T111812Z" creationid="Maria" creationdate="20171208T111812Z">
+        <seg>Vie muiden käyttäjien luomia termikantoja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Export TMs created by other users</seg>
       </tuv>
       <tuv lang="FI" changeid="Maria" changedate="20171208T111545Z" creationid="Maria" creationdate="20171208T111545Z">
@@ -82,6 +114,14 @@
       </tuv>
       <tuv lang="FI" changeid="Maria" changedate="20171208T110422Z" creationid="Maria" creationdate="20171208T110422Z">
         <seg>Tietoja Memsourcesta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Import into TBs created by other users</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T111824Z" creationid="Maria" creationdate="20171208T111824Z">
+        <seg>Tuo muiden käyttäjien luomia termikantoja</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Modify TBs created by other users</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T111743Z" creationid="Maria" creationdate="20171208T111743Z">
+        <seg>Muokkaa muiden käyttäjien luomia termikantoja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Modify TMs created by other users</seg>
       </tuv>
       <tuv lang="FI" changeid="Maria" changedate="20171208T111459Z" creationid="Maria" creationdate="20171208T111459Z">
@@ -170,6 +218,14 @@
       </tuv>
       <tuv lang="FI" changeid="Maria" changedate="20171208T111144Z" creationid="Maria" creationdate="20171208T111144Z">
         <seg>Tämä tarkoittaa sitä, että jos organisaatio ostaa viisi projektipäällikön lisenssiä, se voi luoda 5 järjestelmänvalvojaa tai 5 projektipäällikköä tai yhdistelmän näistä.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Users</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T112019Z" creationid="Maria" creationdate="20171208T112019Z">
+        <seg>Käyttäjät</seg>
       </tuv>
     </tu>
     <tu>
