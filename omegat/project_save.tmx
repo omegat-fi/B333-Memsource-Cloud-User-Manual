@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Memsource (en)</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T105714Z" creationid="Maria" creationdate="20171208T105714Z">
+        <seg>Memsource (fi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Memsource Cloud User Manual - Memsource</seg>
       </tuv>
       <tuv lang="FI" changeid="Maria" changedate="20171208T104512Z" creationid="Maria" creationdate="20171208T104512Z">
@@ -34,6 +42,14 @@
       </tuv>
       <tuv lang="FI" changeid="Maria" changedate="20171208T103916Z" creationid="Maria" creationdate="20171208T103916Z">
         <seg>Kohde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1}&lt;t0/&gt;Navigation trail:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="Maria" changedate="20171208T105942Z" creationid="Maria" creationdate="20171208T105942Z">
+        <seg>{1}&lt;t0/&gt;Valikko</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
