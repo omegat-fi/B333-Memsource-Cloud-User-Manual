@@ -1,0 +1,749 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<martif xml:lang="en" type="TBX">
+  <text>
+    <body>
+      <termEntry>
+        <descrip type="conceptId">0GoC7QKm10hh8171qLowxSGdu</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>täsmätä</term>
+            <termNote type="termId">WId1V5GJx6T58K8ENlx0Jjb40</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511168934181</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511168934181</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>match</term>
+            <termNote type="termId">I0vOaZz60iy8EsjwV73vvrJC1</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511168934105</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511168934105</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">09p6lxoG0o290ex0sU3005sc0</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>käyttäjänimi</term>
+            <termNote type="termId">XxE1NlC9xGB4c29UuxwxDqh80</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511169890211</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511169890211</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>username</term>
+            <termNote type="termId">VqNp8u1lwwH52R9UMGwT4iVz0</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511169890125</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511169890125</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">0etm55CYxXU4e698giwwLrqU0</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>sumea osuma</term>
+            <termNote type="termId">dHfVRqNo0884IL9UDb0iZo9V1</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511168008809</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511168008809</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>fuzzy match</term>
+            <termNote type="termId">xGSGD0vTx7V4MS90Cv2fN0406</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511168008735</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511168008735</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">3r6zhg0MxvW5wL90681g3bGH6</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>kohdistaa</term>
+            <termNote type="termId">PmLVnJIIgc22Fi4olygHrNsC</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511168869922</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511168869922</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>align</term>
+            <termNote type="termId">ViKb0LCH0Si9Eph00KfceIPx8</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511168869842</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511168869842</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">6DOLCej60o85wj90aJ1m07Fu9</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>attribuutti</term>
+            <termNote type="termId">t312bjf2xmF4uk88zewVvfEU1</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511169031962</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511169031962</termNote>
+          </tig>
+          <tig>
+            <term>ominaisuus</term>
+            <termNote type="termId">RctbCNys06G4A48gPn1gWcrD0</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511169017185</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511169017185</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>attribute</term>
+            <termNote type="termId">NGlBzCQKgpy2G648M1wEikWF0</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511169017114</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511169017114</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">8SzoKs5u0O080WwwWb5GgHtw0</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>putki</term>
+            <termNote type="termId">Khr168QGwVH5A1iMc91GNxzf7</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511168246786</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511168246786</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>pipe</term>
+            <termNote type="termId">NfMeHH1HwUL5gt9wLu1Q8ENm2</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511168246722</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511168246722</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">mSaIVj103oN8MYiMOm00yufRa</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>status</term>
+            <termNote type="termId">UNRrayHL0Qo4258w1A1A32Ky3</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511169833992</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511169833992</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>status</term>
+            <termNote type="termId">6dpmtBOsg6b2mm4YyM0cLDC21</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511169833920</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511169833920</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">nQuGvNybwtx2y9483s0orLPL1</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>yhdistää</term>
+            <termNote type="termId">Egl18suixbU48u8g1z0QL8YC4</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511170849653</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511170849653</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>join</term>
+            <termNote type="termId">rKnvZjIPMPd2tu4UqhgAR0041</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511170849576</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511170849576</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">oq3B3sKdwaM2089weO1QfhGA2</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>kojelauta</term>
+            <termNote type="termId">bMedT5A4gG82iJ4k80x80Uiz1</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511169303483</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511169303483</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>dashboard</term>
+            <termNote type="termId">aFz0GNz70YZbUTgw086OnrTQ2</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511169303407</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511169303407</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">oJ1pRGfKxJe5Y0g0Ce7aNkln4</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>kyllä</term>
+            <termNote type="termId">jSPaJ8y40gu507gwt300BBz0r</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511169147546</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511169147546</termNote>
+          </tig>
+          <tig>
+            <term>tosi</term>
+            <termNote type="termId">OEq1hUf03gG9EpjMbO2Mt8907</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511169153564</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511169153564</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>true</term>
+            <termNote type="termId">qkib2tCDweV2ZS4oHwwKuGWh</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511169147475</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511169147475</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">qDa4J96xMT15yq8gVEwV4FX21</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>osuma</term>
+            <termNote type="termId">m7bS7UWgMrt2WY4g012coVuF1</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511167995342</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511167995342</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>match</term>
+            <termNote type="termId">J8Kx4k1j0MZaAvjg3m30ur6A3</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511167995273</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511167995273</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">t1TGz4k10ihjUAC0IA84UfjC5</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>tarkka osuma</term>
+            <termNote type="termId">VCHVS1YHx1iboyjgKi2Djr2c1</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511168040862</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511168040862</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>exact match</term>
+            <termNote type="termId">cD05sESY0489okhwRp0yn6Hu5</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511168040782</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511168040782</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">x0K56Nmsw00mESCwmv6473V15</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>sanasto</term>
+            <termNote type="termId">ypnybl4ew8m2DJ400y3EAYy21</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511169746985</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511169746985</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>terminology</term>
+            <termNote type="termId">oIrW84ERwdE2xp483YghbSaK</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511169746914</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511169746914</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">A8ACPccNwJY21c88V31uv7B42</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>kohdekieli</term>
+            <termNote type="termId">P0wt31Ke0KEloTA0MF9oh0NGr</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511087410908</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511167388608</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>source language</term>
+            <termNote type="termId">W61Kl1HS2sv8MljwiQ34uZfe1</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511087410814</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511087410814</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">GuqKaiOYg3f2RD4A48g5SL1b0</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>tavarantoimittaja</term>
+            <termNote type="termId">jJyAYTiE04s5c280Kj3k41fk3</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511168721377</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511168721377</termNote>
+          </tig>
+          <tig>
+            <term>toimittaja</term>
+            <termNote type="termId">4ImQxBOhgFo23A4k0a1ytN5h2</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511168764760</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511168764760</termNote>
+          </tig>
+          <tig>
+            <term>myyjä</term>
+            <termNote type="termId">gM4ws7GY0CN5IY9UbOxl0BVz3</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511168678161</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511168678161</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>vendor</term>
+            <termNote type="termId">lcLmDQx114ObU3j00D5UpM3Ye</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511168678089</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511168678089</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">NagzPZ200mNbggjMx72Y3VAh0</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>työ</term>
+            <termNote type="termId">1IBy8Y903llb84hgAW3qmPjb1</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511169235871</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511169235871</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>job</term>
+            <termNote type="termId">yHYghuBR005bMWiMz13g1cHN5</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511169235801</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511169235801</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">OX5U430HwJu5eH9Ej8wytMsC1</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>epätosi</term>
+            <termNote type="termId">YHBb07E02V2agUj0WN1IREdqf</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511169165681</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511169165681</termNote>
+          </tig>
+          <tig>
+            <term>ei</term>
+            <termNote type="termId">0IpBldHNwVg5yT984aw13KnA1</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511169178082</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511169178082</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>false</term>
+            <termNote type="termId">0zNIkWrexDA4IG8gnY18gaPf3</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511169165611</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511169165611</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">U9nUqUCm0Em50kiwDt0i7xjz7</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>termitietokanta</term>
+            <termNote type="termId">wNf3VDi00yR8wmiw3R3GxhjV0</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511167430489</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511167430489</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>term database</term>
+            <termNote type="termId">bsmJOwui0g45s49U022ZynFi1</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511167430423</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511167430423</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">V7ThDOkkg1e58f9g1h3p8SpU2</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>painike</term>
+            <termNote type="termId">99fBvnvHgQ525u48tJgPE4Af</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511169676510</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511169676510</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>button</term>
+            <termNote type="termId">BpZXhYjhwsY2Qp4EKrg1dLzr0</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511169676436</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511169676436</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">WL4JW4cwgzc2lI4kp2g3USui</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>jakaa</term>
+            <termNote type="termId">hd4tcePhwmP25r4U0U1Wp3hN1</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511170872659</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511170872659</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>split</term>
+            <termNote type="termId">Ko4Ug6zBw8G2179MDG10MVaW0</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511170872582</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511170872582</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">YE3PLI24wV22nw4UQ00SY5H05</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>kohdekieli</term>
+            <termNote type="termId">zdmRQ37Jwtb2VV48g8M0sWqS0</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511087423473</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511167400188</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>target language</term>
+            <termNote type="termId">15Z1n8rk1QOnEHDw9m0wEdDX3</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511087423379</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511087423379</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry>
+        <descrip type="conceptId">ZqcNbDg1wNn4Er98YOxrahvA1</descrip>
+        <langSet xml:lang="fi">
+          <tig>
+            <term>termikanta</term>
+            <termNote type="termId">tyIVPISgM0G4ug8wQu0KVBZ93</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511167420993</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511167420993</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>term base</term>
+            <termNote type="termId">PcbA9G1dxEF5Sm982vxgmTXd0</termNote>
+            <termNote type="forbidden">false</termNote>
+            <termNote type="exactMatch">false</termNote>
+            <termNote type="status">Approved</termNote>
+            <termNote type="caseSensitive">false</termNote>
+            <termNote type="createdBy">LauriC</termNote>
+            <termNote type="createdAt">1511167420920</termNote>
+            <termNote type="lastModifiedBy">LauriC</termNote>
+            <termNote type="lastModifiedAt">1511167420920</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
+    </body>
+  </text>
+</martif>
