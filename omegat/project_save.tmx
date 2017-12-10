@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The related screenshot demonstrates importing terms with:</seg>
+      </tuv>
+      <tuv lang="FI" changeid="dishw_000" changedate="20171210T200642Z" creationid="dishw_000" creationdate="20171210T200642Z">
+        <seg>SaaThe related screenshot demonstrates importing terms with:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This means that if an organization subscribes to 5 project manager accounts, they can create 5 administrator users or 5 project manager users or any combination of the two types.</seg>
       </tuv>
       <tuv lang="FI" changeid="Maria" changedate="20171208T111144Z" creationid="Maria" creationdate="20171208T111144Z">
@@ -314,6 +322,14 @@
       </tuv>
       <tuv lang="FI" changeid="Maria" changedate="20171208T112209Z" creationid="Maria" creationdate="20171208T112209Z">
         <seg>Tarkastele muiden käyttäjien luomia toimittajia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a segment gets repeated, the font is &lt;t0/&gt;light grey &lt;t1/&gt;and y&lt;t2/&gt;ou do NOT have to translate it.&lt;t3/&gt; Segments with dark grey background are locked.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="dishw_000" changedate="20171210T200755Z" creationid="dishw_000" creationdate="20171210T200755Z">
+        <seg>Kokeilenpa vielä lisätä tähän tällaista - näkyykö teille? t. Saara Siddiqui</seg>
       </tuv>
     </tu>
     <tu>
